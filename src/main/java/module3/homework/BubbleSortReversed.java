@@ -20,7 +20,7 @@ public class BubbleSortReversed {
 
         int[] sorted = new int[unsorted.length];
 
-        for (int i =0; i < sorted.length; i++){
+        for (int i = 0; i < sorted.length; i++) {
             sorted[i] = unsorted[i];
         }
         return sorted;
